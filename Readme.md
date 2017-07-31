@@ -4,4 +4,5 @@
 3. CSS
 4. How to google
 5. Git
+6. Watched some Youtubes
 # Lessons-Learned
